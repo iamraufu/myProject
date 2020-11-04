@@ -1,0 +1,21 @@
+body{padding: 1%; margin: 1%;}
+
+nav{text-align:center;}
+nav a {background-color: rgba(255,255,255,0.5);color: #000000; display: inline-block;padding: 10px;margin: 1%; text-decoration: none; border-radius: 5px; }
+.active {background: #FFFFFF; }
+h1 {color: #FFFFFF; text-align: center;text-transform: uppercase;font-family: sans-serif,"Times New Roman",arial, ; font-size: 24px;position: relative;top: -10px;}
+h2 {color: #000000; text-transform: uppercase; font-family:sans-serif,Helvetica;font-size: 18px;} 
+.left {background: ;width: 30%;float: left;padding: 3% 2;}
+.left img {border: solid 2px ; width: 60%;margin-left: 10%;margin-right: 10%;margin-top: 10%;margin-bottom: 10%;} 
+.right {width: 60%;display: inline-block;padding-left: 0.5%;}
+a {font-family: Arial,sans-serif, Helvetica, ;font-weight: normal;font-size: 14px;}
+p {font-family:serif,Arial; font-size: 14px;}
+table, td, th {border-radius: 5px; font-size: 12px;}
+table {border-collapse: collapse;font-family: "Trebuchet MS", Arial,Helvetica;margin: 10px 0px 0px 50px;}
+th{font-family: sans-serif,Arial,Helvetica;background-color: #829154;color: white;text-align: left;font-weight: bold;}
+td,th{border: 2px solid white; padding: 8px;}
+tr{background-color:#f0f7da;}
+tr:hover{background-color: white; color: black; font-weight: bold;opacity:0.7;}
+th:first-child {text-align:left;}              
+td:nth-child(2){text-align:center; width:20%;}
+td:nth-child(3){text-align:center; width:20%;}     
